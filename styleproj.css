@@ -1,0 +1,27 @@
+body{
+	background-color: #d92323;
+		background-image: url(https://i.ytimg.com/vi/ZJM7ui3ax4w/maxresdefault.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+img{
+	margin-left: 100px;
+	margin-right: 50px;
+}
+p{
+	background-color: #732424;
+	color: black;
+	border-radius: 10PX;
+	font-size: 20PX;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+#blank{
+	background-color: #732424;
+	color: black;
+	border-radius: 10PX;
+	font-size: 20PX;
+	margin-left: 50px;
+	margin-right: 50px;
+}
